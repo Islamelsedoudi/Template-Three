@@ -192,11 +192,9 @@ ul {
     margin-right: 10px;
 }
 
-
      /* End-Header */
 
      /* Start-Landing */
-
 
 .landing {
     position: relative;
@@ -432,11 +430,9 @@ ul {
     }
 }
 
-
     /* End-Articles */
 
    /* Start Gallery */
-
 
 .gallery {
     padding-top: 100px;
@@ -559,7 +555,6 @@ ul {
 .gallery .box .image:hover img {
     transform: rotate(5deg) scale(1.1);
 }
-
 
     /* End-Gallery */
 
@@ -766,7 +761,6 @@ ul {
 
     /* Start-Testimonials */
 
-
 .testimonials {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -809,7 +803,6 @@ ul {
     margin-top: 10px;
     margin-bottom: 0;
 }
-
 
     /* End-Testimonials */
 
